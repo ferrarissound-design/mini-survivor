@@ -27,3 +27,7 @@ Godot 4.7.2 / Compatibility renderer で作ったヴァンサバ風ミニゲー�
 ## フォント
 `fonts/NotoSansJP-Bold-subset.otf` は Noto Sans CJK JP Bold (SIL OFL 1.1, Debian fonts-noto-cjk) のサブセット。
 文字を追加したら `tools/make_font.sh` で再生成する (スクリプト中の文字＋かな・英数字を収録)。
+
+## 開発環境
+
+環境の記録と復元手順は [SETUP.md](SETUP.md) を参照してください。
